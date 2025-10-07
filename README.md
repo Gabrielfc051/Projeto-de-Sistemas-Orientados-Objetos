@@ -10,9 +10,9 @@
 
 > Status do Projeto: Em processo 🟡
 >
-> Relatório de Testes: [PDF](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/relatorio-de-testes.md) 📄 **Em desenvolvimento**
+> Relatório de Testes: [PDF](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientado-a-Objetos/blob/main/docs/.md/relatorio-de-testes.md) 📄 **Em desenvolvimento**
 >
-> Pasta de Documentação: [Link](https://github.com/Felipe-Freitas-Rocha/Projeto-de-Sistemas-Orientado-a-Objetos/tree/main/docs/Documentação) 🔗 **Em desenvolvimento**
+> Pasta de Documentação: [Link](https://github.com/Gabrielfc051/Projeto-de-Sistemas-Orientados-Objetos/docs/Documentação) 🔗 **Em desenvolvimento**
 >
 > Vídeo do Projeto: [Youtube](link) 🎥 **Em desenvolvimento**
 
